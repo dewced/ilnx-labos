@@ -14,3 +14,14 @@ Hou in dit bestand de belangrijkste commando's bij die je tegenkomt, zodat je di
 | Opslaan                    | `:w`     |
 | Opslaan en afsluiten       | `:wq`    |
 | Afsluiten zonder opslaan   | `:q!`    |
+
+Linux: -cvf verbose => output tonen
+
+[12:21] 
+ls -lh: toon grootte van directory alles
+
+[12:24] 
+tar xvf linux.tar
+rm linux.tar
+CTRL R => zoeken door uw commando’s !! HANDIG
+tar -cvzf archive.tar.gz  .... => zippen... (Check!)
